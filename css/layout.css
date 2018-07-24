@@ -25,5 +25,5 @@
 /* Posititoning Classes */
 
 .shadow {
-  column-count: 3;
+  column-span: all;
 }
