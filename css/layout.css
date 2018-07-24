@@ -24,7 +24,6 @@
 
 /* Posititoning Classes */
 
-. {
+.shadow {
   float: right;
-  top: 0;
 }
